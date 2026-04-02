@@ -11,5 +11,12 @@
 		"descripcion": "Herramienta que Morty descargó por error",
 		"autor": "Evil Morty",
 		"url": "https://github.com/ejemplo/morty-stealer"
-	}
+	},
+
+	{
+	  "nombre": "DNO-Encryptx2",
+	  "descripcion": "gestor de contraseñas brutal",
+	  "autor": "Rick-C137",
+	  "url": "https://github.com/Anricci575/DNO-Encryptx2"
+	},
 ]
