@@ -1,23 +1,20 @@
-
 [
-	{
-		"nombre": "nmap-c137",
-		"descripcion": "Escáner de puertos rápido del Microverso",
-		"autor": "Rick Sanchez, Richi",
-		"url": "https://github.com/ejemplo/nmap-c137"
-	},
-	{
-		"nombre": "morty-stealer",
-		"descripcion": "Herramienta que Morty descargó por error",
-		"autor": "Evil Morty",
-		"url": "https://github.com/ejemplo/morty-stealer"
-	},
-	{
-		
-	    "nombre": "DNO-Encryptx2",
-	    "descripcion": "gestor de contraseñas brutal",
-	    "autor": "Rick-C137",
-	    "url": "https://github.com/Anricci575/DNO-Encryptx2"
-		
-	},
+  {
+    "nombre": "nmap-c137",
+    "descripcion": "Escáner de puertos rápido del Microverso",
+    "autor": "Rick Sanchez, Richi",
+    "url": "https://github.com/ejemplo/nmap-c137"
+  },
+  {
+    "nombre": "morty-stealer",
+    "descripcion": "Herramienta que Morty descargó por error",
+    "autor": "Evil Morty",
+    "url": "https://github.com/ejemplo/morty-stealer"
+  },
+  {
+    "nombre": "DNO-Encryptx2",
+    "descripcion": "gestor de contraseñas brutal",
+    "autor": "Rick-C137",
+    "url": "https://github.com/Anricci575/DNO-Encryptx2"
+  }
 ]
